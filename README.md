@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamidnawaz123
+- 👋 Hi, I’m @hamidnawaz745
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning energy management by artificial intelligence.
 - 💞️ I’m looking to collaborate on data sets
